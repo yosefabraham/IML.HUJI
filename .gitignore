@@ -1,4 +1,4 @@
-
+.DS_STORE
 code\ examples/*.png
 code\ examples/*.gif
 *.png
@@ -7,4 +7,5 @@ figures/*.png
 .idea
 **__pycache__
 **.ipynb_checkpoints
+.vscode
 
